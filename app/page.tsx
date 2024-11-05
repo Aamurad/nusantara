@@ -15,7 +15,7 @@ export default function NusantaraRealEstate() {
 
   const pages = ['home', 'about', 'projects', 'contact']
 
-  const heroContent = {
+  const heroContent : any = {
     home: {
       title: "Transforming Healthcare Real Estate",
       subtitle: "Bridging institutional money with private developers and medical operators",
